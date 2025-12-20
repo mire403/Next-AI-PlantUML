@@ -37,7 +37,7 @@ PlantUML 作为“代码即图表”的代表工具，深受开发者喜爱。�
 
 **Next AI PlantUML** 应运而生。它不是简单的编辑器，而是一个集成了 **多模态 AI 生成**、**可视化布局引擎** 和 **智能架构评审** 的全流程辅助平台。
 
-![默认主页](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5.png)
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5.png)
 
 ---
 
