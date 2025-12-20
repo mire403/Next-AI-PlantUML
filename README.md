@@ -38,7 +38,8 @@ PlantUML 作为“代码即图表”的代表工具，深受开发者喜爱。�
 
 **Next AI PlantUML** 应运而生。它不是简单的编辑器，而是一个集成了 **多模态 AI 生成**、**可视化布局引擎** 和 **智能架构评审** 的全流程辅助平台。
 
-![默认主页](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5.png)
+启动即用，左侧为功能导航与代码区，右侧为实时预览区。界面清爽，专注于创作。
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5.png)
 
 ---
 
@@ -61,34 +62,30 @@ PlantUML 作为“代码即图表”的代表工具，深受开发者喜爱。�
 
 Next AI PlantUML 为您提供了一站式的图表设计体验：
 
-### 1. 简洁直观的工作台
-启动即用，左侧为功能导航与代码区，右侧为实时预览区。界面清爽，专注于创作。
-![默认主页](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A1%B5.png)
-
-### 2. AI 智能生成 (Text-to-Diagram)
+### 1. AI 智能生成 (Text-to-Diagram)
 在输入框中描述您的需求，例如：“设计一个在线培训管理系统的类图，包含教务员、学员、课程和选课记录”。AI 将瞬间为您生成规范的 PlantUML 代码。
 > ✨ **亮点**：支持上传手绘草图，AI 能识别图片内容并转换为代码！
-![输入指令后效果](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E8%BE%93%E5%85%A5%E6%8C%87%E4%BB%A4%E5%90%8E%E6%95%88%E6%9E%9C.png)
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E8%BE%93%E5%85%A5%E6%8C%87%E4%BB%A4%E5%90%8E%E6%95%88%E6%9E%9C.png)
 
-### 3. 可视化布局调整 (Visual Layout Editor)
+### 2. 可视化布局调整 (Visual Layout Editor)
 生成的图表布局不满意？点击“调整布局”进入交互模式。您可以像在 Visio 中一样**拖拽节点**。
 *   **技术黑科技**：系统不会保存绝对坐标（破坏 PlantUML 特性），而是根据您的拖拽位置，智能计算并插入 `-[hidden]right->` 等相对位置约束代码，确保图表既美观又可维护。
-![可视化布局调整页面](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B8%83%E5%B1%80%E8%B0%83%E6%95%B4%E9%A1%B5%E9%9D%A2.png)
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B8%83%E5%B1%80%E8%B0%83%E6%95%B4%E9%A1%B5%E9%9D%A2.png)
 
-### 4. AI 架构师评审 (AI Review)
+### 3. AI 架构师评审 (AI Review)
 点击“优化”标签，AI 将化身资深架构师，通过视觉分析（Vision API）审视您的图表。
-![ai优化建议界面](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/ai%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE%E7%95%8C%E9%9D%A2.png)
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/ai%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE%E7%95%8C%E9%9D%A2.png)
 
 AI 会从**可读性**、**规范性**、**美观度**三个维度给出评分和具体的修改建议（如“建议使用正交线 `linetype ortho` 减少交叉”）。
-![ai优化建议结果](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/ai%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE%E7%BB%93%E6%9E%9C.png)
+![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/ai%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE%E7%BB%93%E6%9E%9C.png)
 
-### 5. 持续学习与资产管理
+### 4. 持续学习与资产管理
 *   **内置教程**：包含 16+ 种常用图表的速查手册，点击即可应用代码。
 *   **历史记录**：所有生成的版本都会自动保存在本地，不用担心浏览器崩溃或误操作。
 
-| 📚 沉浸式教程 | ⏱️ 时光机历史记录 |
+| 📚 沉浸式教程 | ⏱️ 历史记录 |
 | :---: | :---: |
-| ![教程](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E6%95%99%E7%A8%8B.png) | ![历史记录](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95.png) |
+| ![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E6%95%99%E7%A8%8B.png) | ![image](https://github.com/mire403/Next-AI-PlantUML/blob/main/pictures/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95.png) |
 
 ---
 
