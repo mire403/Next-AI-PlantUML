@@ -191,7 +191,7 @@ AI 会从**可读性**、**规范性**、**美观度**三个维度给出评分�
 
 *   🚀 **[PlantUML](https://github.com/plantuml/plantuml)**: 感谢官方团队提供的卓越绘图语言和渲染服务，这是本项目的基石。
 *   🤖 **Google Gemini**: 感谢 Google 提供的强大 AI 模型支持。
-*   ⚛️ **React Flow**: 感谢优秀的基于节点的 UI 库，让可视化布局成为可能。
+*   ⚛️ **React Flow**: 感谢优秀的基于节点的 UI 库，让可视化布局
 
 ---
 
