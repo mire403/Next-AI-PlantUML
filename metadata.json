@@ -1,0 +1,5 @@
+{
+  "name": "Next AI PlantUML",
+  "description": "一个由 AI 驱动的平台，使用 Gemini 和官方 PlantUML 服务来生成、可视化和优化 PlantUML 图表。",
+  "requestFramePermissions": []
+}
