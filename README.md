@@ -8,6 +8,7 @@
   [![React](https://img.shields.io/badge/React-18.0-blue.svg?logo=react)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF.svg?logo=vite)](https://vitejs.dev/)
+  [![PlantUML](https://img.shields.io/badge/PlantUML-Official-green.svg)](https://github.com/plantuml/plantuml)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
   [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2.svg?logo=google-gemini)](https://ai.google.dev/)
 
