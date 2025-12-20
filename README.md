@@ -201,5 +201,5 @@ AI 会从**可读性**、**规范性**、**美观度**三个维度给出评分�
   <sub>Built by Haoze Zheng using React & AI</sub>
 </div>
 <div align="center">
-  <sub>Made with ❤️ by Haoze Zheng. 2025 Next AI PlantUML.</sub>
+  <sub>Made by Haoze Zheng. 2025 Next AI PlantUML.</sub>
 </div>
